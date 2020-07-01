@@ -1,13 +1,13 @@
 main:
-  - title: "Developer"
-    url: /developer/
-  - title: "Scientist"
-    url: /categories/
-  - title: "Writer"
-    url: /writer/
-  - title: "About"
-    url: /Learner/
-  - title: "About"
-    url: /about/
-  - title: "Tinkerer"
+  - title: Developer 
+    url: /Developer
+  - title: Scientist
+    url: /Scientist/
+  - title: Writer
+    url: /writing/ 
+  - title: Learner
+    url: learn.jacksonjhayes.com
+  - title: tinkerer
     url: /hobbies/
+  - photos: Photos
+    url: https://vsco.co/jacksonjhayes/gallery

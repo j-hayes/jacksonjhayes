@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  - title: "Developer"
+    url: /developer/
+  - title: "Scientist"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Writer"
+    url: /writer/
+  - title: "About"
+    url: /Learner/
   - title: "About"
     url: /about/
+  - title: "Tinkerer"
+    url: /hobbies/

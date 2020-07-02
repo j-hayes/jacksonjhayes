@@ -1,13 +1,9 @@
 main:
-  - title: Developer 
-    url: /Developer
-  - title: Scientist
-    url: /Scientist/
-  - title: Writer
-    url: /writing/ 
-  - title: Learner
-    url: learn.jacksonjhayes.com
-  - title: tinkerer
-    url: /hobbies/
-  - photos: Photos
+  - title: Resume
+    url: /resume
+  - title: Blog
+    url: /posts
+  - title: Photos
     url: https://vsco.co/jacksonjhayes/gallery
+
+    

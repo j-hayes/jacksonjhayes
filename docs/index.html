@@ -1,7 +1,51 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: splash
+title: " "
+
+
+
+excerpt: "<span style=\"background-color:rgba(0, 0, 0, 0.1)\">A few things I am <br/> and a few things I aspire to be:</span>"
+
+header:
+    overlay_image:  /assets/images/bamboo.JPG
+    overlay_color: "#000"
+    overlay_filter: "0.1"
+     
+feature_row:
+  - image_path: assets/images/Developer.png
+    alt: "Software Engineer"
+    title: <a style="text-decoration:none" href="/developer">Software Engineer</a>
+    
+  - image_path: assets/images/Scientist.png
+    alt: "Scientist"
+    title: <a style="text-decoration:none" href="/science">Scientist</a>
+
+  - image_path: assets/images/Writer.jpg
+    alt: "Writer"
+    title: <a style="text-decoration:none" href="/writer">Writer</a>
+
+feature_row2:
+  - image_path: assets/images/bamboo.jpg
+    alt: "Student"
+    title: <a style="text-decoration:none" href="/developer">Student</a>
+    
+  - image_path: assets/images/bowtie.png
+    alt: "Scientist"
+    title: <a style="text-decoration:none" href="/science">Teacher</a>
+
+  - image_path: assets/images/velo.jpg
+    alt: "Writer"
+    title: <a style="text-decoration:none" href="/hobbies">Tinkerer</a>
+          
+    
 ---
+
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
+
+

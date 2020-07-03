@@ -29,7 +29,7 @@ Contractor – Project Technical Lead
 - Rewrote their mobile application using Xamarin.iOS while adding features to the application and supporting web services with a team of 10 developers
  
 __Key Achievement:__
-- Lead team of 4 in a year-long project building an inventory management system driven by dynamic forms, containing complex business logic in a microservice based architecture on AWS.
+- Lead team of 4 in a year-long project building an inventory management system driven by dynamic forms, containing complex business logic in a micro-service based architecture on AWS.
 
 ## Selected Skills and Technologies 
 Skills

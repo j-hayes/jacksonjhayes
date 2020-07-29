@@ -44,15 +44,19 @@ I have broken down the project into a few phases with target completion dates:
     - Pick a build methodology 
   - Design Phase 1 (June 2020) (Complete)
     - Build a CAD model of the outer shell using the specs of the trike I am going to buy
-  - Buy the recumbent trike (when I get a job and have some income again)
+  - Buy the recumbent trike (when I get a job and have some income again) (Complete)
+  - Scale Model (In Progress)
+    - Build a scale model to learn tools and processes 
   - Design Phase 2 (August 2020)
-    - Take detailed measurements of the trike and CAD model
+    - Take detailed measurements of the trike and update CAD model
     - Design structure that will hold the shell to the frame of the trike and any 3D printed parts that may need to be made. 
+    - Incorporate learnings from scale model build
   - Build Phase 1 (September - October 2020)
     - Cut Foam Rib Structure 
-    - Skin With Coroplast 
-    - Decorate 
-  - First Test Ride (Nov 7th 2020)
+    - Skin With Coroplast or insulation foam.
+    - Build and attach Coroplast undercarriage 
+    - Decorate?
+  - First Test Ride (Nov 7th 2020) (aggressive I doubt this happens)
     - My birthday present to myself 
 - Version 2 
   - Research (some time in 2021)
